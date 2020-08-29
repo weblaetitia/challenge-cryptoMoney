@@ -1,7 +1,7 @@
 # Challenge! "Crypto-currencies"
 https://laetitialanglois.fr/jsdemo/cryptocurrencies/
 
-Week 2 JavaScript challenge @ lacapsule.academy
+Week 1 JavaScript challenge @lacapsule.academy
 
 ## Languages used
 - Jquery
