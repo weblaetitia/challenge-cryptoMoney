@@ -24,6 +24,7 @@ const updateCounter = () => {
     }
 }
 
+addMoney('images/ethereum.png', 'Ethereum', '120,50€');
 addMoney('images/ripple.png', 'Ripple', '0,20€');
 addMoney('images/litecoin.png', 'Litecoin', '39,90€');
 updateCounter();
